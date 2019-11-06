@@ -1,5 +1,9 @@
-html {
-    background: rgb(223,18,150) !important;
-    background: linear-gradient(90deg, rgba(223,18,150,0.7539390756302521) 6%, rgba(235,0,255,1) 61%, rgba(255,255,255,1) 93%) !important;  
-}
+img {
+    height: 100vh;
+  }
 
+  .carousel-caption {
+    transform: translateY(-50%);
+    bottom: 0;
+    top: 50%;
+  }
